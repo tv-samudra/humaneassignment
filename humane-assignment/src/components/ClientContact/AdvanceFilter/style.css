@@ -1,0 +1,12 @@
+.filter-list{
+  list-style: none;
+  padding-left: 0px;
+}
+
+.filter-list .filter-list-item{
+  padding: 5px;
+}
+
+.filter-list-item:nth-child(even){
+  background-color: #eee;
+}

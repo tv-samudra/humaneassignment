@@ -1,0 +1,1 @@
+export default { SET_AUTHENTICATION: "SET_AUTHENTICATION" };

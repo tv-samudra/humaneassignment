@@ -1,0 +1,28 @@
+.headings{
+  padding: 0 20px 0 20px;
+}
+
+.btm-bordered{
+  border-bottom: solid thick #dddddd;
+}
+
+.history-table{
+  height: 50vh;
+  overflow-y: scroll;
+}
+
+.history-table::-webkit-scrollbar{
+  width: 1px;
+  background: #dddddd;
+}
+
+.history-table::-webkit-scrollbar-thumb{
+  background-color: black;
+}
+
+.btn-secondary{
+  background: #fff !important;
+    color: #666 !important;
+    border-color: #ddd !important;
+
+}

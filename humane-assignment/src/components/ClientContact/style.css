@@ -1,0 +1,30 @@
+.contact-list {
+  list-style: none !important;
+  padding-left: 0px;
+}
+
+.contact-list .contact-list-item{
+  padding: 10px;
+}
+
+.contact-list-item:nth-child(even){
+  background-color: #eee;
+}
+
+.client-contact {
+  margin-top: 2%;
+  width: 40vw;
+  height: 90vh;
+  padding: 10px;
+  background-color: #fefefe;
+  border-radius: 2px;
+  box-shadow: 3px 3px 8px #f9f6f6,-3px -3px 8px #f1eded;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.clientContact{
+  
+  overflow-y: hidden;
+  border : solid thin #ddd
+}
